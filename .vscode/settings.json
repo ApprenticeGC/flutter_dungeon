@@ -1,0 +1,14 @@
+{
+    "dart.flutterSdkPath": ".fvm/versions/3.27.1",
+
+    "editor.fontFamily": "'Input Mono'",
+    "editor.fontSize": 16,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs":"active",
+
+    "editor.renderFinalNewline": "on",
+    "editor.renderWhitespace": "boundary",
+
+    "window.zoomLevel": 0.75,
+    "workbench.colorTheme": "Dracula Theme"
+}
